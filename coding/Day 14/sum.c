@@ -1,0 +1,9 @@
+usingnamespacestd;
+intmain()
+{
+intnumber=147;
+if(number)res=number%9==0?9:
+number%9;
+elseres=0;
+//printtheresultcout<<res;
+Return0;
